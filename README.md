@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Md Mahamud Mredha 👋</h1>
 <p align="center">
-  Extracting value from data to solve real-world problems | Data Science | Machine Learning | Mentor @CoderPals(Part Time) | Python, SQL | Power BI | AI Explorer 
+  Extracting value from data to solve real-world problems | Mentor | Data Science | Machine Learning | Python, SQL | Power BI | AI Explorer 
 </p>
 
 ---
